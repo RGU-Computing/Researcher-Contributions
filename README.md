@@ -21,6 +21,8 @@
 | WEC: Weighted Ensemble of Text Classifiers | [Paper](https://rgu-repository.worktribe.com/output/905942/wec-weighted-ensemble-of-text-classifiers) | [Code](https://github.com/ashishu007/WEC) | [Ashish Upadhyay](https://github.com/ashishu007) |
 | Heterogeneous Multi-modal Hybrid Attention Fusion for Exercise Recognition | [Paper](https://rgu-repository.worktribe.com/output/886985/heterogeneous-multi-modal-sensor-fusion-with-hybrid-attention-for-exercise-recognition) | [Code](https://github.com/anjanaw/multi_modal_attention_fusion) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | Personalised Meta-Learning for Human Activity Recognition with Few-Data | [Paper](https://rgu-repository.worktribe.com/output/968384/personalised-meta-learning-for-human-activity-recognition-with-few-data) | [Code](https://github.com/anjanaw/personalised_meta_learners) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| Learning to Recognise Exercises in the Self-Management of Low Back Pain | [Paper](https://rgu-repository.worktribe.com/output/836137/learning-to-recognise-exercises-for-the-self-management-of-low-back-pain) | [Code](https://github.com/anjanaw/mex) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+
 
 ### Open Applications
 | Name | Application URL |   Source Code   | Maintained By |
