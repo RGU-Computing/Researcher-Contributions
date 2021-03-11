@@ -7,11 +7,12 @@
   - Applications
   - Other Tools and Utilities
   - Datasets Produced
-- [Cyber Security](#cyber-security)
+- [Machine Vision](#machine-vision)
   - Publications
 
+- [Cyber Security](#cyber-security)
+  - Publications
 - [Computational Intelligence](#computational-intelligence)
-- [Machine Vision](#machine-vision)
 
 
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
@@ -56,6 +57,15 @@
 | Helper methods to support TensorFlow Federated functionalities | [Code](https://github.com/chamathpali/tensorflow-federated-utilities) | [Chamath Palihawadana](https://github.com/chamathpali)|
 | Boolean Search Engine using Python and Flask | [Code](https://github.com/ashishu007/IR-Engine) |  [Ashish Upadhyay](https://github.com/ashishu007) |
 | Introduction to Word Embeddings | [Code](https://github.com/ashishu007/Word-Embeddings) |  [Ashish Upadhyay](https://github.com/ashishu007) |
+
+
+## Machine Vision
+### Publication Reproducible Codes
+| Publication Title | Publication URL |   Source Code   | Maintained By |
+|---|---|---|---|
+|A genetic algorithm approach to optimising random forests applied to class engineered data| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025516305783) | [Code](https://github.com/heyad/forStudents/tree/master/classDecomp) | [Prof. Eyad Elyan](https://github.com/heyad) |
+|CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification| [Paper](https://doi.org/10.1007/s00521-020-05130-z) | [Code](https://github.com/carlosfmorenog/CDSMOTE-BINARY) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
+
 
 ## Cyber Security
 ### Publication Reproducible Codes
