@@ -47,7 +47,7 @@
 | Name | Dataset URL |   Source Code   | Maintained By |
 |---|---|---|---|
 | MEx: Heterogeneous Multi-modal Physiotherapy Exercises Dataset | [Dataset](https://archive.ics.uci.edu/ml/datasets/MEx) | [Code](https://github.com/anjanaw/mex) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
-| selfBACK Data Set | [Dataset](https://archive.ics.uci.edu/ml/datasets/selfBACK) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301003) | [Prof. Nirmalie Wiratunga](https://rgu-repository.worktribe.com/person/142640/nirmalie-wiratunga) and [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| selfBACK Data Set | [Dataset](https://archive.ics.uci.edu/ml/datasets/selfBACK) | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-63558-3_40) | [Prof. Nirmalie Wiratunga](https://rgu-repository.worktribe.com/person/142640/nirmalie-wiratunga) and [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 
 
 ### Other Tools and Utilities
