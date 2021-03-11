@@ -3,12 +3,15 @@
 # RGU Computing Researcher Contributions
 
 - [Artificial Intelligence & Reasoning](#ai)
-- - Publications
-- - Applications
-- - Other Tools and Utilities
-- - Datasets Produced
-- [Cyber Security](#cybersec)
-- [Optimisation](#optimisation)
+  - Publications
+  - Applications
+  - Other Tools and Utilities
+  - Datasets Produced
+- [Cyber Security](#cyber-security)
+  - Publications
+
+- [Computational Intelligence](#computational-intelligence)
+- [Machine Vision](#machine-vision)
 
 
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
@@ -53,3 +56,9 @@
 | Helper methods to support TensorFlow Federated functionalities | [Code](https://github.com/chamathpali/tensorflow-federated-utilities) | [Chamath Palihawadana](https://github.com/chamathpali)|
 | Boolean Search Engine using Python and Flask | [Code](https://github.com/ashishu007/IR-Engine) |  [Ashish Upadhyay](https://github.com/ashishu007) |
 | Introduction to Word Embeddings | [Code](https://github.com/ashishu007/Word-Embeddings) |  [Ashish Upadhyay](https://github.com/ashishu007) |
+
+## Cyber Security
+### Publication Reproducible Codes
+| Publication Title | Publication URL |   Source Code   | Maintained By |
+|---|---|---|---|
+|Naive Bayes: Applications, Variations and Vulnerabilities| [Paper](https://doi.org/10.1007/s00500-020-05297-6) | [Code](https://github.com/HarshaKumaraKalutarage/Naive-Bayes-Applications-and-Vulnerabilities) | [Dr. Harsha Kalutarage](https://github.com/HarshaKumaraKalutarage) |
