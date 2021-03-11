@@ -16,19 +16,21 @@
 
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
-| Clood CBR: towards microservices oriented case-based reasoning | [Paper](https://rgu-repository.worktribe.com/output/895530/clood-cbr-towards-microservices-oriented-case-based-reasoning) | [Code](https://github.com/rgu-computing/clood) | [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
-| Human activity recognition with deep metric learners | [Paper](https://rgu-repository.worktribe.com/output/350316/human-activity-recognition-with-deep-metric-learners) | [Code](https://github.com/anjanaw/deep_metric_learning_for_har) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
-| WEC: Weighted Ensemble of Text Classifiers | [Paper](https://rgu-repository.worktribe.com/output/905942/wec-weighted-ensemble-of-text-classifiers) | [Code](https://github.com/ashishu007/WEC) | [Ashish Upadhyay](https://github.com/ashishu007) |
-| Heterogeneous Multi-modal Hybrid Attention Fusion for Exercise Recognition | [Paper](https://rgu-repository.worktribe.com/output/886985/heterogeneous-multi-modal-sensor-fusion-with-hybrid-attention-for-exercise-recognition) | [Code](https://github.com/anjanaw/multi_modal_attention_fusion) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
-| Personalised Meta-Learning for Human Activity Recognition with Few-Data | [Paper](https://rgu-repository.worktribe.com/output/968384/personalised-meta-learning-for-human-activity-recognition-with-few-data) | [Code](https://github.com/anjanaw/personalised_meta_learners) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
-| Learning to Recognise Exercises in the Self-Management of Low Back Pain | [Paper](https://rgu-repository.worktribe.com/output/836137/learning-to-recognise-exercises-for-the-self-management-of-low-back-pain) | [Code](https://github.com/anjanaw/mex) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| Clood CBR: towards microservices oriented case-based reasoning | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58342-2_9) | [Code](https://github.com/rgu-computing/clood) | [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
+| Human activity recognition with deep metric learners | [Paper](http://ceur-ws.org/Vol-2567/paper1.pdf) | [Code](https://github.com/anjanaw/deep_metric_learning_for_har) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| WEC: Weighted Ensemble of Text Classifiers | [Paper](https://ieeexplore.ieee.org/document/9185641) | [Code](https://github.com/ashishu007/WEC) | [Ashish Upadhyay](https://github.com/ashishu007) |
+| Heterogeneous Multi-modal Hybrid Attention Fusion for Exercise Recognition | [Paper](https://ieeexplore.ieee.org/document/9206941) | [Code](https://github.com/anjanaw/multi_modal_attention_fusion) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| Personalised Meta-Learning for Human Activity Recognition with Few-Data | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-63799-6_6) | [Code](https://github.com/anjanaw/personalised_meta_learners) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| Learning to Recognise Exercises in the Self-Management of Low Back Pain | [Paper](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18460) | [Code](https://github.com/anjanaw/mex) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| Ontology Alignment Based on Word Embedding and Random Forest Classification | [Paper](https://www.researchgate.net/publication/330462403_Ontology_Alignment_Based_on_Word_Embedding_and_Random_Forest_Classification_Recognizing_Outstanding_PhD_Research) | [Code](https://bitbucket.org/paravariar/rafcom/src/master/) |[Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) |
+| A knowledge-light approach to personalised and open-ended human activity recognition | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301003) | [Code](https://github.com/anjanaw/open_ended_meta_learners) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 
 
 ### Open Applications
 | Name | Application URL |   Source Code   | Maintained By |
 |---|---|---|---|
 | Unimate: is a digital intervention (app) aimed at enhancing students educational experience and wellbeing | [www.unimate.app](https://unimate.app) | [Code](https://github.com/RGU-Computing/unimate) | [Chamath Palihawadana](https://github.com/chamathpali) |
-| FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults | - | [Code](https://github.com/RGU-Computing/fitchat) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults | [Paper](https://intellang.github.io/papers/4-IntelLanG_2020_paper_4.pdf) | [Code](https://github.com/RGU-Computing/fitchat) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 
 ### Frameworks and Libraries
 | Name  | Type | Source Code   | Maintained By |
