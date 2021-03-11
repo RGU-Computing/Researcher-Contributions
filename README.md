@@ -65,6 +65,7 @@
 |---|---|---|---|
 |A genetic algorithm approach to optimising random forests applied to class engineered data| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025516305783) | [Code](https://github.com/heyad/forStudents/tree/master/classDecomp) | [Prof. Eyad Elyan](https://github.com/heyad) |
 |CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification| [Paper](https://doi.org/10.1007/s00521-020-05130-z) | [Code](https://github.com/carlosfmorenog/CDSMOTE-BINARY) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
+|Deep learning for symbols detection and classification in engineering drawings| [Paper](https://www.sciencedirect.com/science/article/pii/S0893608020301957?via%3Dihub) | [Code](https://github.com/heyad/Eng_Diagrams) | [Prof. Eyad Elyan](https://github.com/heyad) |
 
 
 ## Cyber Security
