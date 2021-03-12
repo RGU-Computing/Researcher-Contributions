@@ -28,6 +28,8 @@
 | Learning to Recognise Exercises in the Self-Management of Low Back Pain | [Paper](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18460) | [Code](https://github.com/anjanaw/mex) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | Ontology Alignment Based on Word Embedding and Random Forest Classification | [Paper](https://www.researchgate.net/publication/330462403_Ontology_Alignment_Based_on_Word_Embedding_and_Random_Forest_Classification_Recognizing_Outstanding_PhD_Research) | [Code](https://bitbucket.org/paravariar/rafcom/src/master/) |[Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) |
 | A knowledge-light approach to personalised and open-ended human activity recognition | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301003) | [Code](https://github.com/anjanaw/open_ended_meta_learners) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+|Improved Overlap-based Undersampling for Imbalanced Dataset Classification with Application to Epilepsy and Parkinson’s Disease| [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500434) | [Code](https://github.com/fonkafon/BoostedOBU) | [Dr.Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
+
 
 
 ### Open Applications
@@ -66,6 +68,9 @@
 |A genetic algorithm approach to optimising random forests applied to class engineered data| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025516305783) | [Code](https://github.com/heyad/forStudents/tree/master/classDecomp) | [Prof. Eyad Elyan](https://github.com/heyad) |
 |CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification| [Paper](https://doi.org/10.1007/s00521-020-05130-z) | [Code](https://github.com/carlosfmorenog/CDSMOTE-BINARY) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
 |Deep learning for symbols detection and classification in engineering drawings| [Paper](https://www.sciencedirect.com/science/article/pii/S0893608020301957?via%3Dihub) | [Code](https://github.com/heyad/Eng_Diagrams) | [Prof. Eyad Elyan](https://github.com/heyad) |
+|Neighbourhood-based undersampling approach for handling imbalanced and overlapped data| [Paper](https://www.sciencedirect.com/science/article/pii/S0020025519308114) | [Code](https://github.com/fonkafon/NB-undersampling) | [Dr.Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
+|MFC-GAN: Class-imbalanced dataset classification using Multiple Fake Class Generative Adversarial Network| [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219309257) | [Code](https://github.com/heyad/Eng_Diagrams) | [Prof. Eyad Elyan](https://github.com/heyad) |
+
 
 
 ## Cyber Security
