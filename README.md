@@ -34,7 +34,7 @@
 | Name | Application URL |   Source Code   | Maintained By |
 |---|---|---|---|
 | Unimate: is a digital intervention (app) aimed at enhancing students educational experience and wellbeing | [www.unimate.app](https://unimate.app) | [Code](https://github.com/RGU-Computing/unimate) | [Chamath Palihawadana](https://github.com/chamathpali) |
-| FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults | [Paper](https://intellang.github.io/papers/4-IntelLanG_2020_paper_4.pdf) | [Code](https://github.com/RGU-Computing/fitchat) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
+| FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults | [Website](https://www.comp.rgu.ac.uk/fitchat/)<br> [Paper](https://intellang.github.io/papers/4-IntelLanG_2020_paper_4.pdf) | [Code](https://github.com/RGU-Computing/fitchat) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 
 ### Frameworks and Libraries
 | Name  | Type | Source Code   | Maintained By |
