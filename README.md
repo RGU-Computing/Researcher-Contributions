@@ -20,7 +20,7 @@
 
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
-| Clood CBR: towards microservices oriented case-based reasoning | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58342-2_9) | [Code](https://github.com/rgu-computing/clood) | [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
+| Clood CBR: towards microservices oriented case-based reasoning | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58342-2_9), [Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0) | [Code](https://github.com/rgu-computing/clood) | [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
 | Human activity recognition with deep metric learners | [Paper](http://ceur-ws.org/Vol-2567/paper1.pdf) | [Code](https://github.com/anjanaw/deep_metric_learning_for_har) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | WEC: Weighted Ensemble of Text Classifiers | [Paper](https://ieeexplore.ieee.org/document/9185641) | [Code](https://github.com/ashishu007/WEC) | [Ashish Upadhyay](https://github.com/ashishu007) |
 | Heterogeneous Multi-modal Hybrid Attention Fusion for Exercise Recognition | [Paper](https://ieeexplore.ieee.org/document/9206941) | [Code](https://github.com/anjanaw/multi_modal_attention_fusion) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
@@ -39,7 +39,7 @@
 ### Frameworks and Libraries
 | Name  | Type | Source Code   | Maintained By |
 |---|---|---|---|
-| Clood CBR | Framework for Case Based Reasoning using cloud microservices | [Code](https://github.com/rgu-computing/clood) | [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
+| Clood CBR | Framework for Case Based Reasoning using cloud microservices | [Code](https://github.com/rgu-computing/clood) <br>[Demo Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0)| [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
 | Traxivity: is a module which features step counting and its analytics in order to help users maintain physical activity | React Native Library (mobile) | [Code](https://github.com/RGU-Computing/traxivity) | [Chamath Palihawadana](https://github.com/chamathpali) |
 
 
