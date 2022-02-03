@@ -30,6 +30,7 @@
 | Ontology Alignment Based on Word Embedding and Random Forest Classification | [Paper](https://www.researchgate.net/publication/330462403_Ontology_Alignment_Based_on_Word_Embedding_and_Random_Forest_Classification_Recognizing_Outstanding_PhD_Research) | [Code](https://bitbucket.org/paravariar/rafcom/src/master/) |[Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) |
 | A knowledge-light approach to personalised and open-ended human activity recognition | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301003) | [Code](https://github.com/anjanaw/open_ended_meta_learners) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | A Case-Based Approach to Data-to-Text Generation | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_16) | [Code](https://github.com/ashishu007/data2text-cbr) | [Ashish Upadhyay](https://github.com/ashishu007) |
+| Motion Detection using CSI from Raspberry Pi 4 | [Paper](https://arxiv.org/abs/2111.09091) | [Code](https://github.com/Gi-z/MovementDetection-Demo) | [Glenn Forbes](https://github.com/Gi-z) |
 
 
 ### Open Applications
@@ -42,6 +43,7 @@
 | Name  | Type | Source Code   | Maintained By |
 |---|---|---|---|
 | Clood CBR | Framework for Case Based Reasoning using cloud microservices | [Code](https://github.com/rgu-computing/clood) <br>[Demo Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0)| [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
+| CSIKit | Framework for parsing, processing, and visualising CSI data | [Code](https://github.com/Gi-z/CSIKit) | [Glenn Forbes](https://github.com/Gi-z) |
 | Traxivity: is a module which features step counting and its analytics in order to help users maintain physical activity | React Native Library (mobile) | [Code](https://github.com/RGU-Computing/traxivity) | [Chamath Palihawadana](https://github.com/chamathpali) |
 
 
@@ -50,7 +52,7 @@
 |---|---|---|---|
 | MEx: Heterogeneous Multi-modal Physiotherapy Exercises Dataset | [Dataset](https://archive.ics.uci.edu/ml/datasets/MEx) | [Code](https://github.com/anjanaw/mex) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | selfBACK Data Set | [Dataset](https://archive.ics.uci.edu/ml/datasets/selfBACK) | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-63558-3_40) | [Prof. Nirmalie Wiratunga](https://rgu-repository.worktribe.com/person/142640/nirmalie-wiratunga) and [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
-
+| WiFi-based Human Activity Recognition Dataset | [Dataset](https://zenodo.org/record/5616432) | [Paper](https://ieeexplore.ieee.org/abstract/document/9288199/) | [Glenn Forbes](https://github.com/Gi-z/) |
 
 ### Other Tools and Utilities
 | Name |  Source Code   | Maintained By |
