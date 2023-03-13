@@ -63,9 +63,11 @@
 | Introduction to Word Embeddings | [Code](https://github.com/ashishu007/Word-Embeddings) |  [Ashish Upadhyay](https://github.com/ashishu007) |
 
 
-## Machine Vision
+## Machine Vision <a name="imv"></a>
 <img src="https://www.dropbox.com/s/vms7eyk3rr3pttn/IMV_logo.png?raw=1" alt="AIR Logo" width="300"/>
+
 ### Publication Reproducible Codes
+
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
 |A genetic algorithm approach to optimising random forests applied to class engineered data| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025516305783) | [Code](https://github.com/heyad/forStudents/tree/master/classDecomp) | [Prof. Eyad Elyan](https://github.com/heyad) |
