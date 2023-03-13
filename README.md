@@ -63,7 +63,7 @@
 | Introduction to Word Embeddings | [Code](https://github.com/ashishu007/Word-Embeddings) |  [Ashish Upadhyay](https://github.com/ashishu007) |
 
 
-## Machine Vision <a name="imv"></a>
+## Interactive Machine Vision <a name="imv"></a>
 <img src="https://www.dropbox.com/s/vms7eyk3rr3pttn/IMV_logo.png?raw=1" alt="AIR Logo" width="300"/>
 
 ### Publication Reproducible Codes
