@@ -64,6 +64,7 @@
 
 
 ## Machine Vision
+<img src="https://www.dropbox.com/s/vms7eyk3rr3pttn/IMV_logo.png?raw=1" alt="AIR Logo" width="300"/>
 ### Publication Reproducible Codes
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
