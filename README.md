@@ -64,7 +64,7 @@
 
 
 ## Interactive Machine Vision <a name="imv"></a>
-<img src="https://www.dropbox.com/s/vms7eyk3rr3pttn/IMV_logo.png?raw=1" alt="AIR Logo" width="300"/>
+<img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/49e2f1f8-35ee-4d3c-93ae-d5b9b06457a3" alt="AIR Logo" width="300"/>
 
 ### Publication Reproducible Codes
 
@@ -81,6 +81,8 @@
 |Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Paper](https://doi.org/10.1007/978-3-030-48791-1_16) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
 
 ## Cyber Security
+<img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/0cb18133-0fe1-4b3d-b7e3-97bf3bab810a" alt="Cyber Security Logo" width="300"/>
+
 ### Publication Reproducible Codes
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
