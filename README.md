@@ -76,7 +76,9 @@
 |Neighbourhood-based undersampling approach for handling imbalanced and overlapped data| [Paper](https://www.sciencedirect.com/science/article/pii/S0020025519308114) | [Code](https://github.com/fonkafon/NB-undersampling) | [Dr.Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
 |MFC-GAN: Class-imbalanced dataset classification using Multiple Fake Class Generative Adversarial Network| [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219309257) | [Code](https://github.com/heyad/Eng_Diagrams) | [Prof. Eyad Elyan](https://github.com/heyad) |
 |Improved Overlap-based Undersampling for Imbalanced Dataset Classification with Application to Epilepsy and Parkinson’s Disease| [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500434) | [Code](https://github.com/fonkafon/BoostedOBU) | [Dr.Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
-
+|Improved Overlap-based Undersampling for Imbalanced Dataset Classification with Application to Epilepsy and Parkinson’s Disease| [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500434) | [Code](https://github.com/fonkafon/BoostedOBU) | [Dr.Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
+|Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis| [Paper](https://doi.org/10.1109/IJCNN52387.2021.9533603) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Sentiment) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
+|Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Paper](https://doi.org/10.1007/978-3-030-48791-1_16) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
 
 ## Cyber Security
 ### Publication Reproducible Codes
