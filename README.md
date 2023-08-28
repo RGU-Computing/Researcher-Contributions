@@ -2,14 +2,13 @@
 
 - [Artificial Intelligence & Reasoning](#ai)
   - [Publications](#aipubs)
-  - Applications
-  - Other Tools and Utilities
-  - Datasets Produced
-- [Machine Vision](#machine-vision)
-  - Publications
-
-- [Cyber Security](#cyber-security)
-  - Publications
+  - [Applications](#aiopen)
+  - [Other Tools and Utilities](#aiother)
+  - [Datasets Produced](#aidbs)
+- [Machine Vision](#imv)
+  - [Publications](#imvpubs)
+- [Cyber Security](#cs)
+  - [Publications](#cspubs)
 
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
 <img src="https://user-images.githubusercontent.com/5123109/138847984-221acf79-0c4a-471d-a35b-92f44b121a69.png" alt="AIR Logo" width="300"/>
@@ -31,13 +30,13 @@
 | Motion Detection using CSI from Raspberry Pi 4 | [Paper](https://arxiv.org/abs/2111.09091) | [Code](https://github.com/Gi-z/MovementDetection-Demo) | [Glenn Forbes](https://github.com/Gi-z) |
 
 
-### Open Applications
+### Open Applications <a name="aiopen"></a>
 | Name | Application URL |   Source Code   | Maintained By |
 |---|---|---|---|
 | Unimate: is a digital intervention (app) aimed at enhancing students educational experience and wellbeing | [www.unimate.app](https://unimate.app) | [Code](https://github.com/RGU-Computing/unimate) | [Chamath Palihawadana](https://github.com/chamathpali) |
 | FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults | [Website](https://www.comp.rgu.ac.uk/fitchat/)<br> [Paper](https://intellang.github.io/papers/4-IntelLanG_2020_paper_4.pdf) | [Code](https://github.com/RGU-Computing/fitchat) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 
-### Frameworks and Libraries
+### Frameworks and Libraries <a name="aiframe"></a>
 | Name  | Type | Source Code   | Maintained By |
 |---|---|---|---|
 | Clood CBR | Framework for Case Based Reasoning using cloud microservices | [Code](https://github.com/rgu-computing/clood) <br>[Demo Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0)| [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
@@ -45,14 +44,14 @@
 | Traxivity: is a module which features step counting and its analytics in order to help users maintain physical activity | React Native Library (mobile) | [Code](https://github.com/RGU-Computing/traxivity) | [Chamath Palihawadana](https://github.com/chamathpali) |
 
 
-### Datasets
+### Datasets <a name="aidbs"></a>
 | Name | Dataset URL |   Source Code   | Maintained By |
 |---|---|---|---|
 | MEx: Heterogeneous Multi-modal Physiotherapy Exercises Dataset | [Dataset](https://archive.ics.uci.edu/ml/datasets/MEx) | [Code](https://github.com/anjanaw/mex) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | selfBACK Data Set | [Dataset](https://archive.ics.uci.edu/ml/datasets/selfBACK) | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-63558-3_40) | [Prof. Nirmalie Wiratunga](https://rgu-repository.worktribe.com/person/142640/nirmalie-wiratunga) and [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | WiFi-based Human Activity Recognition Dataset | [Dataset](https://zenodo.org/record/5616432) | [Paper](https://ieeexplore.ieee.org/abstract/document/9288199/) | [Glenn Forbes](https://github.com/Gi-z/) |
 
-### Other Tools and Utilities
+### Other Tools and Utilities <a name="aiothers"></a>
 | Name |  Source Code   | Maintained By |
 |---|---|---|
 | Various NLP tasks using Huggingface and Flask | [Code](https://github.com/ashishu007/NLP-Tasks) |  [Ashish Upadhyay](https://github.com/ashishu007) |
@@ -64,7 +63,7 @@
 ## Interactive Machine Vision <a name="imv"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/49e2f1f8-35ee-4d3c-93ae-d5b9b06457a3" alt="AIR Logo" width="300"/>
 
-### Publication Reproducible Codes
+### Publication Reproducible Codes <a name="imvpubs"></a>
 
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
@@ -78,10 +77,10 @@
 |Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis| [Paper](https://doi.org/10.1109/IJCNN52387.2021.9533603) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Sentiment) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
 |Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Paper](https://doi.org/10.1007/978-3-030-48791-1_16) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
 
-## Cyber Security
+## Cyber Security <a name="cs"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/0cb18133-0fe1-4b3d-b7e3-97bf3bab810a" alt="Cyber Security Logo" width="300"/>
 
-### Publication Reproducible Codes
+### Publication Reproducible Codes <a name="cspubs"></a>
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
 |Naive Bayes: Applications, Variations and Vulnerabilities| [Paper](https://doi.org/10.1007/s00500-020-05297-6) | [Code](https://github.com/HarshaKumaraKalutarage/Naive-Bayes-Applications-and-Vulnerabilities) | [Dr. Harsha Kalutarage](https://github.com/HarshaKumaraKalutarage) |
