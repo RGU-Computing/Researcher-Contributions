@@ -1,20 +1,20 @@
 # RGU Computing Researcher Contributions
 
 - [Artificial Intelligence & Reasoning](#ai)
-  - [Publications](#aipubs)
+  - [Publications with Reproducible Code](#aipubs)
   - [Open Applications](#aiopen)
   - [Frameworks and Libraries](#aiframe)
   - [Datasets](#aidbs)
   - [Other Tools and Utilities](#aiothers)
 - [Machine Vision](#imv)
-  - [Publications](#imvpubs)
+  - [Publications with Reproducible Code](#imvpubs)
 - [Cyber Security](#cs)
-  - [Publications](#cspubs)
+  - [Publications with Reproducible Code](#cspubs)
 
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
 <img src="https://user-images.githubusercontent.com/5123109/138847984-221acf79-0c4a-471d-a35b-92f44b121a69.png" alt="AIR Logo" width="300"/>
  
-### Publication Reproducible Codes <a name="aipubs"></a>
+### Publications with Reproducible Code <a name="aipubs"></a>
 
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
@@ -64,7 +64,7 @@
 ## Interactive Machine Vision <a name="imv"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/49e2f1f8-35ee-4d3c-93ae-d5b9b06457a3" alt="AIR Logo" width="300"/>
 
-### Publication Reproducible Codes <a name="imvpubs"></a>
+### Publications with Reproducible Code <a name="imvpubs"></a>
 
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
@@ -81,7 +81,7 @@
 ## Cyber Security <a name="cs"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/0cb18133-0fe1-4b3d-b7e3-97bf3bab810a" alt="Cyber Security Logo" width="300"/>
 
-### Publication Reproducible Codes <a name="cspubs"></a>
+### Publications with Reproducible Code <a name="cspubs"></a>
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
 |Naive Bayes: Applications, Variations and Vulnerabilities| [Paper](https://doi.org/10.1007/s00500-020-05297-6) | [Code](https://github.com/HarshaKumaraKalutarage/Naive-Bayes-Applications-and-Vulnerabilities) | [Dr. Harsha Kalutarage](https://github.com/HarshaKumaraKalutarage) |
