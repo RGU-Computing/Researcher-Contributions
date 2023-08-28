@@ -10,8 +10,6 @@
 
 - [Cyber Security](#cyber-security)
   - Publications
-- [Computational Intelligence](#computational-intelligence)
-
 
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
 <img src="https://user-images.githubusercontent.com/5123109/138847984-221acf79-0c4a-471d-a35b-92f44b121a69.png" alt="AIR Logo" width="300"/>
