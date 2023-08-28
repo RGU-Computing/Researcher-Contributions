@@ -1,7 +1,7 @@
 # RGU Computing Researcher Contributions
 
 - [Artificial Intelligence & Reasoning](#ai)
-  - Publications
+  - [Publications](#aipubs)
   - Applications
   - Other Tools and Utilities
   - Datasets Produced
@@ -14,7 +14,7 @@
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
 <img src="https://user-images.githubusercontent.com/5123109/138847984-221acf79-0c4a-471d-a35b-92f44b121a69.png" alt="AIR Logo" width="300"/>
  
-### Publication Reproducible Codes
+### Publication Reproducible Codes <a name="aipubs"></a>
 
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
