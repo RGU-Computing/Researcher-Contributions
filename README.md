@@ -77,10 +77,10 @@
 |Improved Overlap-based Undersampling for Imbalanced Dataset Classification with Application to Epilepsy and Parkinson’s Disease| [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500434) | [Code](https://github.com/fonkafon/BoostedOBU) | [Dr.Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
 |Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis| [Paper](https://doi.org/10.1109/IJCNN52387.2021.9533603) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Sentiment) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
 |Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Paper](https://doi.org/10.1007/978-3-030-48791-1_16) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
-|Pre-print accessible UI| Paper Under Review | [Code](https://github.com/corriedotdev/vr-tremor-reduction) | [Mr. Corrie Green](https://github.com/corriedotdev) |
-|Pre-print to website for Modular UI| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) | [Code](https://github.com/corriedotdev/vr-modular-3d-gui) | [Mr. Corrie Green](https://github.com/corriedotdev) |
-|Pre-print AR | Paper Under Review | [Code](https://github.com/corriedotdev/3D-Museum-Library) | [Mr. Corrie Green](https://github.com/corriedotdev) |
-|360 Player | [Paper]() | [Code](https://github.com/corriedotdev/vr-360-player) | [Mr. Corrie Green](https://github.com/corriedotdev) |
+|Tremor Reduction for Accessible Ray Based Interaction in VR| Paper Under Review | [Code](https://github.com/corriedotdev/vr-tremor-reduction) | [Mr. Corrie Green](https://github.com/corriedotdev) |
+|Modular 3D Interface Design for Accessible VR Applications| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) | [Code](https://github.com/corriedotdev/vr-modular-3d-gui) | [Mr. Corrie Green](https://github.com/corriedotdev) |
+|Augmenting Heritage using AR | Paper Under Review | [Code](https://github.com/corriedotdev/3D-Museum-Library) | [Mr. Corrie Green](https://github.com/corriedotdev) |
+|An Accessible Toolkit for 360 VR Studies | [Paper](https://arxiv.org/abs/2304.03652) | [Code](https://github.com/corriedotdev/vr-360-player) | [Mr. Corrie Green](https://github.com/corriedotdev) |
 
 ## Cyber Security <a name="cs"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/0cb18133-0fe1-4b3d-b7e3-97bf3bab810a" alt="Cyber Security Logo" width="300"/>
