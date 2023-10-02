@@ -47,7 +47,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 | Name  | Type | Source Code   | Maintained By |
 |---|---|---|---|
 | Clood CBR | Framework for Case Based Reasoning using cloud microservices | [Code](https://github.com/rgu-computing/clood) <br>[Demo Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0)| [Dr. Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
-| CSIKit | Framework for parsing, processing, and visualising CSI data | [Code](https://github.com/Gi-z/CSIKit) | [Glenn Forbes](https://github.com/Gi-z) |
+| CSIKit | Framework for parsing, processing, and visualising CSI data | [Code](https://github.com/Gi-z/CSIKit) | [Dr. Glenn Forbes](https://github.com/Gi-z) |
 | Traxivity: is a module which features step counting and its analytics in order to help users maintain physical activity | React Native Library (mobile) | [Code](https://github.com/RGU-Computing/traxivity) | [Chamath Palihawadana](https://github.com/chamathpali) |
 
 
