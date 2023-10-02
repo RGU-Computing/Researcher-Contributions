@@ -85,6 +85,8 @@
 ## Cyber Security <a name="cs"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/0cb18133-0fe1-4b3d-b7e3-97bf3bab810a" alt="Cyber Security Logo" width="300"/>
 
+More info: https://cybersec-soc-rgu.github.io/
+
 ### Publications with Reproducible Code <a name="cspubs"></a>
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
