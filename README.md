@@ -1,4 +1,5 @@
 # RGU Computing Researcher Contributions
+https://rgu-repository.worktribe.com/orgunit/71759/school-of-computing
 
 - [Artificial Intelligence & Reasoning](#ai)
   - [Publications with Reproducible Code](#aipubs)
@@ -13,6 +14,8 @@
 
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
 <img src="https://user-images.githubusercontent.com/5123109/138847984-221acf79-0c4a-471d-a35b-92f44b121a69.png" alt="AIR Logo" width="300"/>
+
+More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intelligence-reasoning-air
  
 ### Publications with Reproducible Code <a name="aipubs"></a>
 
@@ -63,6 +66,8 @@
 
 ## Interactive Machine Vision <a name="imv"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/49e2f1f8-35ee-4d3c-93ae-d5b9b06457a3" alt="AIR Logo" width="300"/>
+
+More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-vision
 
 ### Publications with Reproducible Code <a name="imvpubs"></a>
 
