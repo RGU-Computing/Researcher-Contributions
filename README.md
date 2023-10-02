@@ -56,7 +56,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 |---|---|---|---|
 | MEx: Heterogeneous Multi-modal Physiotherapy Exercises Dataset | [Dataset](https://archive.ics.uci.edu/ml/datasets/MEx) | [Code](https://github.com/anjanaw/mex) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | selfBACK Data Set | [Dataset](https://archive.ics.uci.edu/ml/datasets/selfBACK) | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-63558-3_40) | [Prof. Nirmalie Wiratunga](https://rgu-repository.worktribe.com/person/142640/nirmalie-wiratunga) and [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
-| WiFi-based Human Activity Recognition Dataset | [Dataset](https://zenodo.org/record/5616432) | [Paper](https://ieeexplore.ieee.org/abstract/document/9288199/) | [Glenn Forbes](https://github.com/Gi-z/) |
+| WiFi-based Human Activity Recognition Dataset | [Dataset](https://zenodo.org/record/5616432) | [Paper](https://ieeexplore.ieee.org/abstract/document/9288199/) | [Dr. Glenn Forbes](https://github.com/Gi-z/) |
 
 ### Other Tools and Utilities <a name="aiothers"></a>
 | Name |  Source Code   | Maintained By |
