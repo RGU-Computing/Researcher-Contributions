@@ -32,7 +32,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 | A knowledge-light approach to personalised and open-ended human activity recognition | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301003) | [Code](https://github.com/anjanaw/open_ended_meta_learners) | [Dr. Anjana Wijekoon](https://github.com/anjanaw/) |
 | A Case-Based Approach to Data-to-Text Generation | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_16) | [Code](https://github.com/ashishu007/data2text-cbr) | [Ashish Upadhyay](https://github.com/ashishu007) |
 | Motion Detection using CSI from Raspberry Pi 4 | [Paper](https://arxiv.org/abs/2111.09091) | [Code](https://github.com/Gi-z/MovementDetection-Demo) | [Glenn Forbes](https://github.com/Gi-z) |
-| Towards feasible counterfactual explanations: a taxonomy guided template-based NLG method | [Paper]([https://arxiv.org/abs/2111.09091](https://rgu-repository.worktribe.com/output/2015280)) | [Code]([https://github.com/Gi-z/MovementDetection-Demo](https://github.com/pedramsalimi/NLGXAI)) | [Pedram Salimi([https://github.com/Gi-z](https://github.com/pedramsalimi)) |
+| Towards feasible counterfactual explanations: a taxonomy guided template-based NLG method | [Paper]([https://arxiv.org/abs/2111.09091](https://rgu-repository.worktribe.com/output/2015280)) | [Code]([https://github.com/Gi-z/MovementDetection-Demo](https://github.com/pedramsalimi/NLGXAI)) | [Pedram Salimi]([https://github.com/Gi-z](https://github.com/pedramsalimi)) |
 
 
 ### Open Applications <a name="aiopen"></a>
