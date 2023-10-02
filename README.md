@@ -7,7 +7,7 @@ Main Site: https://rgu-repository.worktribe.com/orgunit/71759/school-of-computin
   - [Frameworks and Libraries](#aiframe)
   - [Datasets](#aidbs)
   - [Other Tools and Utilities](#aiothers)
-- [Machine Vision](#imv)
+- [Interactive Machine Vision](#imv)
   - [Publications with Reproducible Code](#imvpubs)
 - [Cyber Security](#cs)
   - [Publications with Reproducible Code](#cspubs)
