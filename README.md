@@ -33,7 +33,9 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 | A Case-Based Approach to Data-to-Text Generation | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_16) | [Code](https://github.com/ashishu007/data2text-cbr) | [Ashish Upadhyay](https://github.com/ashishu007) |
 | Motion Detection using CSI from Raspberry Pi 4 | [Paper](https://arxiv.org/abs/2111.09091) | [Code](https://github.com/Gi-z/MovementDetection-Demo) | [Glenn Forbes](https://github.com/Gi-z) |
 | Towards feasible counterfactual explanations: a taxonomy guided template-based NLG method | [Paper](https://rgu-repository.worktribe.com/output/2015280) | [Code](https://github.com/pedramsalimi/NLGXAI) | [Pedram Salimi](https://github.com/pedramsalimi) |
-
+| AGREE: A Feature Attribution Aggregation Framework to Address Explainer Disagreements with Alignment Metrics | [Paper](https://ceur-ws.org/Vol-3438/paper_14.pdf) | [Code](https://github.com/craigybaeb/AGREE) | [Craig Pirie](https://github.com/craigybaeb) |
+| Counterfactual Consensus: How Meta-counterfactuals Can Mitigate the Disagreement Problem in XAI | Paper Under Review | [Code](https://github.com/craigybaeb/MANIC) | [Craig Pirie](https://github.com/craigybaeb) |
+| Clinical Dialogue Transcription Error Correction Using Seq2Seq Models | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_4) | [Code](https://github.com/gayaninan/clinical-error-correction) | [Gayani Nanayakkara](https://github.com/gayaninan) |
 
 ### Open Applications <a name="aiopen"></a>
 | Name | Application URL |   Source Code   | Maintained By |
