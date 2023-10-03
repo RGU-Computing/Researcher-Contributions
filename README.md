@@ -99,3 +99,4 @@ More info: https://cybersec-soc-rgu.github.io/
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
 |Naive Bayes: Applications, Variations and Vulnerabilities| [Paper](https://doi.org/10.1007/s00500-020-05297-6) | [Code](https://github.com/HarshaKumaraKalutarage/Naive-Bayes-Applications-and-Vulnerabilities) | [Dr. Harsha Kalutarage](https://github.com/HarshaKumaraKalutarage) |
+|Beyond Vanilla: Improved Autoencoder-based Ensemble In-vehicle Intrusion Detection System| [Paper](https://doi.org/10.1016/j.jisa.2023.103570) | [Code](https://github.com/sampathrajapaksha/EnsembleIDS) | [Sampath Rajapaksha](https://github.com/sampathrajapaksha) |
