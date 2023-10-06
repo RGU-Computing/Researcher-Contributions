@@ -100,3 +100,7 @@ More info: https://cybersec-soc-rgu.github.io/
 |---|---|---|---|
 |Naive Bayes: Applications, Variations and Vulnerabilities| [Paper](https://doi.org/10.1007/s00500-020-05297-6) | [Code](https://github.com/HarshaKumaraKalutarage/Naive-Bayes-Applications-and-Vulnerabilities) | [Dr. Harsha Kalutarage](https://github.com/HarshaKumaraKalutarage) |
 |Beyond Vanilla: Improved Autoencoder-based Ensemble In-vehicle Intrusion Detection System| [Paper](https://doi.org/10.1016/j.jisa.2023.103570) | [Code](https://github.com/sampathrajapaksha/EnsembleIDS) | [Sampath Rajapaksha](https://github.com/sampathrajapaksha) |
+|Labelled Vulnerability Dataset on Android Source Code (LVDAndro)| [Paper](https://doi.org/10.5220/0012060400003555) | [Code](https://github.com/softwaresec-labs/LVDAndro) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+|Android Code Vulnerabilities Early Detection (ACVED)| [Paper](https://doi.org/10.1007/978-3-031-37586-6_20) | [Code](https://github.com/softwaresec-labs/ACVED) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+|Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI (FedREVAN)| Paper in Print | [Code](https://github.com/softwaresec-labs/FedREVAN) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+|MADONNA: Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis (MADONNA)| Paper in Print | [Code](https://github.com/softwaresec-labs/MADONNA) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
