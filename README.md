@@ -69,7 +69,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 
 
 ## Interactive Machine Vision <a name="imv"></a>
-<img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/49e2f1f8-35ee-4d3c-93ae-d5b9b06457a3" alt="AIR Logo" width="300"/>
+<img src="https://www.dropbox.com/scl/fi/azjotg1a3eahnlivz7v13/logo_IMV.png?rlkey=y3af5e6ac2g2e4gybieopgutv&raw=1" alt="AIR Logo" width="300"/>
 
 More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-vision
 
