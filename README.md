@@ -95,7 +95,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
 |---|---|---|---|
-|Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Paper](https://doi.org/10.1007/978-3-030-48791-1_16) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
+|Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Data and Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Paper](https://doi.org/10.1007/978-3-030-48791-1_16)| [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
 | CARDIAC Images | [Dataset](https://www.kaggle.com/datasets/carlosmorenogarcia/cardiac-images-masks-plosone) | [Paper](https://doi.org/10.1371/journal.pone.0293560) | [Dr. Carlos Moreno-García](https://www.kaggle.com/carlosmorenogarcia) |
 
 ## Cyber Security <a name="cs"></a>
