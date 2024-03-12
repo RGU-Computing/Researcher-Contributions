@@ -111,4 +111,6 @@ More info: https://cybersec-soc-rgu.github.io/
 |Android Code Vulnerabilities Early Detection (ACVED)| [Paper](https://doi.org/10.1007/978-3-031-37586-6_20) | [Code](https://github.com/softwaresec-labs/ACVED) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
 |Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI (FedREVAN)| Paper in Print | [Code](https://github.com/softwaresec-labs/FedREVAN) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
 |MADONNA: Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis (MADONNA)| Paper in Print | [Code](https://doi.org/10.1016/j.jisa.2024.103741) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+|Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI (FedREVAN)| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-54129-2_25) | [Code](https://github.com/softwaresec-labs/FedREVAN) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
 |Defendroid: Real-time Android code vulnerability detection via blockchain federated neural network with XAI| [Paper](https://doi.org/10.1016/j.jisa.2024.103741) | [Code](https://github.com/softwaresec-labs/Defendroid) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+
