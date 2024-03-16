@@ -73,7 +73,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 
 
 ## Interactive Machine Vision <a name="imv"></a>
-<img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/49e2f1f8-35ee-4d3c-93ae-d5b9b06457a3" alt="AIR Logo" width="300"/>
+<img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/43293156/68f50ce7-62dc-4a30-9e31-f6404e106fff" alt="IMV Logo" width="300"/>
 
 More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-vision
 
@@ -89,8 +89,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-
 |Improved Overlap-based Undersampling for Imbalanced Dataset Classification with Application to Epilepsy and Parkinson’s Disease| [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500434) | [Code](https://github.com/fonkafon/BoostedOBU) | [Dr. Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
 |Improved Overlap-based Undersampling for Imbalanced Dataset Classification with Application to Epilepsy and Parkinson’s Disease| [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500434) | [Code](https://github.com/fonkafon/BoostedOBU) | [Dr. Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
 |Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis| [Paper](https://doi.org/10.1109/IJCNN52387.2021.9533603) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Sentiment) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
-|Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Paper](https://doi.org/10.1007/978-3-030-48791-1_16) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
-|Tremor Reduction for Accessible Ray Based Interaction in VR| Paper Under Review | [Code (Under Review)](https://github.com/corriedotdev/vr-tremor-reduction) | [Corrie Green](https://github.com/corriedotdev) |
+|Tremor Reduction for Accessible Ray Based Interaction in VR| Paper Under Review | [Code](https://github.com/corriedotdev/vr-tremor-reduction) | [Corrie Green](https://github.com/corriedotdev) |
 |Modular 3D Interface Design for Accessible VR Applications| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) | [Code](https://github.com/corriedotdev/vr-modular-3d-gui) | [Corrie Green](https://github.com/corriedotdev) |
 |Augmenting Heritage using AR | Paper Under Review | [Code](https://github.com/corriedotdev/3D-Museum-Library) | [Corrie Green](https://github.com/corriedotdev) |
 |An Accessible Toolkit for 360 VR Studies | [Paper](https://arxiv.org/abs/2304.03652) | [Code](https://github.com/corriedotdev/vr-360-player) | [Corrie Green](https://github.com/corriedotdev) |
@@ -99,6 +98,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
 |---|---|---|---|
+|Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Data and Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Paper](https://doi.org/10.1007/978-3-030-48791-1_16)| [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
 | CARDIAC Images | [Dataset](https://www.kaggle.com/datasets/carlosmorenogarcia/cardiac-images-masks-plosone) | [Paper](https://doi.org/10.1371/journal.pone.0293560) | [Dr. Carlos Moreno-García](https://www.kaggle.com/carlosmorenogarcia) |
 
 ## Cyber Security <a name="cs"></a>
@@ -113,5 +113,7 @@ More info: https://cybersec-soc-rgu.github.io/
 |Beyond Vanilla: Improved Autoencoder-based Ensemble In-vehicle Intrusion Detection System| [Paper](https://doi.org/10.1016/j.jisa.2023.103570) | [Code](https://github.com/sampathrajapaksha/EnsembleIDS) | [Sampath Rajapaksha](https://github.com/sampathrajapaksha) |
 |Labelled Vulnerability Dataset on Android Source Code (LVDAndro)| [Paper](https://doi.org/10.5220/0012060400003555) | [Code](https://github.com/softwaresec-labs/LVDAndro) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
 |Android Code Vulnerabilities Early Detection (ACVED)| [Paper](https://doi.org/10.1007/978-3-031-37586-6_20) | [Code](https://github.com/softwaresec-labs/ACVED) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
-|Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI (FedREVAN)| Paper in Print | [Code](https://github.com/softwaresec-labs/FedREVAN) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
-|MADONNA: Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis (MADONNA)| Paper in Print | [Code](https://github.com/softwaresec-labs/MADONNA) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+|Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI (FedREVAN)| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-54129-2_25) | [Code](https://github.com/softwaresec-labs/FedREVAN) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+|MADONNA: Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis (MADONNA)| Paper in Print | [Code](https://doi.org/10.1016/j.jisa.2024.103741) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+|Defendroid: Real-time Android code vulnerability detection via blockchain federated neural network with XAI| [Paper](https://doi.org/10.1016/j.jisa.2024.103741) | [Code](https://github.com/softwaresec-labs/Defendroid) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+
