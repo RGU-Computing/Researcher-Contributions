@@ -39,7 +39,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 | Clinical Dialogue Transcription Error Correction Using Seq2Seq Models | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_4) | [Code](https://github.com/gayaninan/clinical-error-correction) | [Gayani Nanayakkara](https://github.com/gayaninan) |
 | FedSim: Similarity Guided Model Aggregation for Federated Learning | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Code](https://github.com/chamathpali/FedSim) | [Chamath Palihawadana](https://github.com/chamathpali) |
 | pFGD: Mitigating Gradient Inversion Attacks in Federated Learning with Frequency Transformation | [Paper](https://doi.org/10.1007/978-3-031-54129-2_44) | [Code](https://github.com/chamathpali/pFGD) | [Chamath Palihawadana](https://github.com/chamathpali) |
-| A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews | Paper Accepted in NAACL | [Code](https://github.com/reginaofori/Zero_Shot_IR_Spanish_IR) | [Regina Ofori-Boateng](https://github.com/reginaofori/) |
+| A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews | Paper Accepted in [NAACL 2024](https://2024.naacl.org/) | [Code](https://github.com/reginaofori/Zero_Shot_IR_Spanish_IR) | [Regina Ofori-Boateng](https://github.com/reginaofori/) |
 
 ### Open Applications <a name="aiopen"></a>
 | Name | Application URL |   Source Code   | Maintained By |
@@ -89,18 +89,18 @@ More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-
 |MFC-GAN: Class-imbalanced dataset classification using Multiple Fake Class Generative Adversarial Network| [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219309257) | [Code](https://github.com/heyad/Eng_Diagrams) | [Prof. Eyad Elyan](https://github.com/heyad) |
 |Improved Overlap-based Undersampling for Imbalanced Dataset Classification with Application to Epilepsy and Parkinson’s Disease| [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500434) | [Code](https://github.com/fonkafon/BoostedOBU) | [Dr. Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
 |Improved Overlap-based Undersampling for Imbalanced Dataset Classification with Application to Epilepsy and Parkinson’s Disease| [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500434) | [Code](https://github.com/fonkafon/BoostedOBU) | [Dr. Pattaramon Vuttipittayamongkol](https://github.com/fonkafon) |
-|Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis| [Paper](https://doi.org/10.1109/IJCNN52387.2021.9533603) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Sentiment) | [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
+|Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis| [Paper](https://doi.org/10.1109/IJCNN52387.2021.9533603) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Sentiment) | [Dr. Carlos Moreno-Garcia](http://cfmgcomputing.blogspot.com/p/home.html) |
 |Tremor Reduction for Accessible Ray Based Interaction in VR| Paper Under Review | [Code](https://github.com/corriedotdev/vr-tremor-reduction) | [Corrie Green](https://github.com/corriedotdev) |
-|Modular 3D Interface Design for Accessible VR Applications| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) | [Code](https://github.com/corriedotdev/vr-modular-3d-gui) | [Corrie Green](https://github.com/corriedotdev) |
-|Augmenting Heritage using AR | Paper Under Review | [Code](https://github.com/corriedotdev/3D-Museum-Library) | [Corrie Green](https://github.com/corriedotdev) |
-|An Accessible Toolkit for 360 VR Studies | [Paper](https://arxiv.org/abs/2304.03652) | [Code](https://github.com/corriedotdev/vr-360-player) | [Corrie Green](https://github.com/corriedotdev) |
-
+|Modular 3D Interface Design for Accessible VR Applications| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) | [Code](https://github.com/corriedotdev/vr-modular-3d-gui) | [Dr Corrie Green](https://github.com/corriedotdev) |
+|Augmenting Heritage using AR | Paper Under Review | [Code](https://github.com/corriedotdev/3D-Museum-Library) | [Dr Corrie Green](https://github.com/corriedotdev) |
+|An Accessible Toolkit for 360 VR Studies | [Paper](https://arxiv.org/abs/2304.03652) | [Code](https://github.com/corriedotdev/vr-360-player) | [Dr Corrie Green](https://github.com/corriedotdev) |
+|A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams | Paper Accepted in [ICDAR 2024](https://icdar2024.net/) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Carlos Moreno-Garcia](http://cfmgcomputing.blogspot.com/p/home.html) |
 
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
 |---|---|---|---|
-|Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Data and Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Paper](https://doi.org/10.1007/978-3-030-48791-1_16)| [Dr. Carlos Moreno-Garcia](https://github.com/carlosfmorenog) |
-| CARDIAC Images | [Dataset](https://www.kaggle.com/datasets/carlosmorenogarcia/cardiac-images-masks-plosone) | [Paper](https://doi.org/10.1371/journal.pone.0293560) | [Dr. Carlos Moreno-García](https://www.kaggle.com/carlosmorenogarcia) |
+|Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Data and Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Paper](https://doi.org/10.1007/978-3-030-48791-1_16)| [Dr. Carlos Moreno-Garcia](http://cfmgcomputing.blogspot.com/p/home.html) |
+| CARDIAC Images | [Dataset](https://www.kaggle.com/datasets/carlosmorenogarcia/cardiac-images-masks-plosone) | [Paper](https://doi.org/10.1371/journal.pone.0293560) | [Dr. Carlos Moreno-García]([https://www.kaggle.com/carlosmorenogarcia](http://cfmgcomputing.blogspot.com/p/home.html)) |
 
 ## Cyber Security <a name="cs"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/0cb18133-0fe1-4b3d-b7e3-97bf3bab810a" alt="Cyber Security Logo" width="300"/>
