@@ -39,7 +39,6 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 | Clinical Dialogue Transcription Error Correction Using Seq2Seq Models | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_4) | [Code](https://github.com/gayaninan/clinical-error-correction) | [Gayani Nanayakkara](https://github.com/gayaninan) |
 | FedSim: Similarity Guided Model Aggregation for Federated Learning | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Code](https://github.com/chamathpali/FedSim) | [Chamath Palihawadana](https://github.com/chamathpali) |
 | pFGD: Mitigating Gradient Inversion Attacks in Federated Learning with Frequency Transformation | [Paper](https://doi.org/10.1007/978-3-031-54129-2_44) | [Code](https://github.com/chamathpali/pFGD) | [Chamath Palihawadana](https://github.com/chamathpali) |
-| Zero-Shot Learning for Abstract Classification in Systematic Reviews | [Paper](https://2024.naacl.org/) | [Code](https://github.com/carlosfmorenog/Zero-Shot_Abstract_Classification) | [Dr Carlos Moreno-Garcia](http://cfmgcomputing.blogspot.com/p/home.html) |
 | A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews | Paper Accepted in [NAACL 2024](https://2024.naacl.org/) | [Code](https://github.com/reginaofori/Zero_Shot_IR_Spanish_IR) | [Regina Ofori-Boateng](https://github.com/reginaofori/) |
 
 ### Open Applications <a name="aiopen"></a>
@@ -96,6 +95,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-
 |Augmenting Heritage using AR | Paper Under Review | [Code](https://github.com/corriedotdev/3D-Museum-Library) | [Dr Corrie Green](https://github.com/corriedotdev) |
 |An Accessible Toolkit for 360 VR Studies | [Paper](https://arxiv.org/abs/2304.03652) | [Code](https://github.com/corriedotdev/vr-360-player) | [Dr Corrie Green](https://github.com/corriedotdev) |
 |A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams | Paper Accepted in [ICDAR 2024](https://icdar2024.net/) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
+| Zero-Shot Learning for Abstract Classification in Systematic Reviews | [Paper](https://2024.naacl.org/) | [Code](https://doi.org/10.1016/j.dajour.2023.100162) | [Dr Carlos Moreno-Garcia](http://cfmgcomputing.blogspot.com/p/home.html) |
 
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
