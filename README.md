@@ -39,6 +39,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437329/artificial-intellige
 | Clinical Dialogue Transcription Error Correction Using Seq2Seq Models | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_4) | [Code](https://github.com/gayaninan/clinical-error-correction) | [Gayani Nanayakkara](https://github.com/gayaninan) |
 | FedSim: Similarity Guided Model Aggregation for Federated Learning | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Code](https://github.com/chamathpali/FedSim) | [Chamath Palihawadana](https://github.com/chamathpali) |
 | pFGD: Mitigating Gradient Inversion Attacks in Federated Learning with Frequency Transformation | [Paper](https://doi.org/10.1007/978-3-031-54129-2_44) | [Code](https://github.com/chamathpali/pFGD) | [Chamath Palihawadana](https://github.com/chamathpali) |
+| Zero-Shot Learning for Abstract Classification in Systematic Reviews | [Paper](https://2024.naacl.org/) | [Code](https://github.com/carlosfmorenog/Zero-Shot_Abstract_Classification) | [Dr Carlos Moreno-Garcia](http://cfmgcomputing.blogspot.com/p/home.html) |
 | A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews | Paper Accepted in [NAACL 2024](https://2024.naacl.org/) | [Code](https://github.com/reginaofori/Zero_Shot_IR_Spanish_IR) | [Regina Ofori-Boateng](https://github.com/reginaofori/) |
 
 ### Open Applications <a name="aiopen"></a>
