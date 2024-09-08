@@ -95,7 +95,7 @@ More info: https://rgu-repository.worktribe.com/tag/1437341/interactive-machine-
 |Modular 3D Interface Design for Accessible VR Applications| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) | [Code](https://github.com/corriedotdev/vr-modular-3d-gui) | [Dr Corrie Green](https://github.com/corriedotdev) |
 |Augmenting Heritage using AR | Paper Under Review | [Code](https://github.com/corriedotdev/3D-Museum-Library) | [Dr Corrie Green](https://github.com/corriedotdev) |
 |An Accessible Toolkit for 360 VR Studies | [Paper](https://arxiv.org/abs/2304.03652) | [Code](https://github.com/corriedotdev/vr-360-player) | [Dr Corrie Green](https://github.com/corriedotdev) |
-|A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams | Paper Accepted in [ICDAR 2024](https://icdar2024.net/) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
+|A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams | [Paper](https://doi.org/10.1007/978-3-031-70533-5_1) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
 | Zero-Shot Learning for Abstract Classification in Systematic Reviews | [Paper](https://2024.naacl.org/) | [Code](https://doi.org/10.1016/j.dajour.2023.100162) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
 
 ### Datasets <a name="imvdbs"></a>
