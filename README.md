@@ -41,6 +41,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | pFGD: Mitigating Gradient Inversion Attacks in Federated Learning with Frequency Transformation | [Paper](https://doi.org/10.1007/978-3-031-54129-2_44) | [Code](https://github.com/chamathpali/pFGD) | [Chamath Palihawadana](https://github.com/chamathpali) |
 | A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews | [Paper](https://aclanthology.org/2024.naacl-long.206/) | [Code](https://github.com/reginaofori/Zero_Shot_IR_Spanish) | [Regina Ofori-Boateng](https://github.com/reginaofori/) |
 | Enhancing Abstract Screening Classification in Evidence-Based Medicine: Incorporating Domain Knowledge into Pre-trained Models | [Paper](https://doi.org/10.1007/978-3-031-66538-7_26) | [Code](https://github.com/reginaofori/EBM-Domain-Integration-PLMs) | [Regina Ofori-Boateng](https://github.com/reginaofori/) |
+| CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering | [Paper](https://arxiv.org/abs/2404.04302) | [Code](https://github.com/rgu-iit-bt/cbr-for-legal-rag) | [Ramitha Abeyratne](https://github.com/RAbeyratne) |
 
 ### Open Applications <a name="aiopen"></a>
 | Name | Application URL |   Source Code   | Maintained By |
