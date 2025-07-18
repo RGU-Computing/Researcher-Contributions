@@ -99,6 +99,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446572
 |A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams | [Paper](https://doi.org/10.1007/978-3-031-70533-5_1) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
 | Zero-Shot Learning for Abstract Classification in Systematic Reviews | [Paper](https://doi.org/10.1016/j.dajour.2023.100162) | [Code](https://github.com/carlosfmorenog/Zero-Shot_Abstract_Classification) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
 | DICAM: deep inception and channel-wise attention modules for underwater image enhancement  | [Paper](https://doi.org/10.1016/j.neucom.2024.127585 ) | [Code](https://github.com/hfarhaditolie/DICAM) | [Mr Hamidreza Farhadi Tolie](https://github.com/hfarhaditolie) |
+|  Modified CBAM: Sub-block Pooling for Improved Channel and Spatial Attention  | [Paper](https://doi.org/10.1007/978-3-031-98691-8_9) | [Code](https://github.com/fatimza-2013/brainiac) | [Mr Hamza Hussaini](https://github.com/fatimza-2013) |
 
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
