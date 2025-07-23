@@ -41,7 +41,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | pFGD: Mitigating Gradient Inversion Attacks in Federated Learning with Frequency Transformation | [Paper](https://doi.org/10.1007/978-3-031-54129-2_44) | [Code](https://github.com/chamathpali/pFGD) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 | A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews | [Paper](https://aclanthology.org/2024.naacl-long.206/) | [Code](https://github.com/reginaofori/Zero_Shot_IR_Spanish) | [Dr Regina Ofori-Boateng](https://github.com/reginaofori/) |
 | Enhancing Abstract Screening Classification in Evidence-Based Medicine: Incorporating Domain Knowledge into Pre-trained Models | [Paper](https://doi.org/10.1007/978-3-031-66538-7_26) | [Code](https://github.com/reginaofori/EBM-Domain-Integration-PLMs) | [Dr Regina Ofori-Boateng](https://github.com/reginaofori/) |
-| CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering | [Paper](https://arxiv.org/abs/2404.04302) | [Code](https://github.com/rgu-iit-bt/cbr-for-legal-rag) | [Ramitha Abeyratne](https://github.com/RAbeyratne) |
+| CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering | [Paper](https://arxiv.org/abs/2404.04302) | [Code](https://github.com/rgu-iit-bt/cbr-for-legal-rag) | [Mr Ramitha Abeyratne](https://github.com/RAbeyratne) |
 
 ### Open Applications <a name="aiopen"></a>
 | Name | Application URL |   Source Code   | Maintained By |
@@ -63,7 +63,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | MEx: Heterogeneous Multi-modal Physiotherapy Exercises Dataset | [Dataset](https://archive.ics.uci.edu/ml/datasets/MEx) | [Code](https://github.com/anjanaw/mex) | [Dr Anjana Wijekoon](https://github.com/anjanaw/) |
 | selfBACK Data Set | [Dataset](https://archive.ics.uci.edu/ml/datasets/selfBACK) | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-63558-3_40) | [Prof Nirmalie Wiratunga](https://rgu-repository.worktribe.com/person/142640/nirmalie-wiratunga) and [Dr Anjana Wijekoon](https://github.com/anjanaw/) |
 | WiFi-based Human Activity Recognition Dataset | [Dataset](https://zenodo.org/record/5616432) | [Paper](https://ieeexplore.ieee.org/abstract/document/9288199/) | [Dr Glenn Forbes](https://github.com/Gi-z/) |
-| Fed-Goodreads | [Dataset](https://github.com/chamathpali/Fed-Goodreads/) | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Chamath Palihawadana](https://github.com/chamathpali) |
+| Fed-Goodreads | [Dataset](https://github.com/chamathpali/Fed-Goodreads/) | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 | Fed-MEx | [Dataset](https://github.com/chamathpali/Fed-MEx/) | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 
 ### Other Tools and Utilities <a name="aiothers"></a>
