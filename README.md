@@ -33,28 +33,28 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | A knowledge-light approach to personalised and open-ended human activity recognition | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301003) | [Code](https://github.com/anjanaw/open_ended_meta_learners) | [Dr Anjana Wijekoon](https://github.com/anjanaw/) |
 | A Case-Based Approach to Data-to-Text Generation | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_16) | [Code](https://github.com/ashishu007/data2text-cbr) | [Dr Ashish Upadhyay](https://github.com/ashishu007) |
 | Motion Detection using CSI from Raspberry Pi 4 | [Paper](https://arxiv.org/abs/2111.09091) | [Code](https://github.com/Gi-z/MovementDetection-Demo) | [Dr Glenn Forbes](https://github.com/Gi-z) |
-| Towards feasible counterfactual explanations: a taxonomy guided template-based NLG method | [Paper](https://rgu-repository.worktribe.com/output/2015280) | [Code](https://github.com/pedramsalimi/NLGXAI) | [Pedram Salimi](https://github.com/pedramsalimi) |
+| Towards feasible counterfactual explanations: a taxonomy guided template-based NLG method | [Paper](https://rgu-repository.worktribe.com/output/2015280) | [Code](https://github.com/pedramsalimi/NLGXAI) | [Dr Pedram Salimi](https://github.com/pedramsalimi) |
 | AGREE: A Feature Attribution Aggregation Framework to Address Explainer Disagreements with Alignment Metrics | [Paper](https://ceur-ws.org/Vol-3438/paper_14.pdf) | [Code](https://github.com/craigybaeb/AGREE) | [Craig Pirie](https://github.com/craigybaeb) |
 | Counterfactual Consensus: How Meta-counterfactuals Can Mitigate the Disagreement Problem in XAI | Paper Under Review | [Code](https://github.com/craigybaeb/MANIC) | [Craig Pirie](https://github.com/craigybaeb) |
-| Clinical Dialogue Transcription Error Correction Using Seq2Seq Models | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_4) | [Code](https://github.com/gayaninan/clinical-error-correction) | [Gayani Nanayakkara](https://github.com/gayaninan) |
+| Clinical Dialogue Transcription Error Correction Using Seq2Seq Models | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_4) | [Code](https://github.com/gayaninan/clinical-error-correction) | [Dr Gayani Nanayakkara](https://github.com/gayaninan) |
 | FedSim: Similarity Guided Model Aggregation for Federated Learning | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Code](https://github.com/chamathpali/FedSim) | [Chamath Palihawadana](https://github.com/chamathpali) |
-| pFGD: Mitigating Gradient Inversion Attacks in Federated Learning with Frequency Transformation | [Paper](https://doi.org/10.1007/978-3-031-54129-2_44) | [Code](https://github.com/chamathpali/pFGD) | [Chamath Palihawadana](https://github.com/chamathpali) |
-| A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews | [Paper](https://aclanthology.org/2024.naacl-long.206/) | [Code](https://github.com/reginaofori/Zero_Shot_IR_Spanish) | [Regina Ofori-Boateng](https://github.com/reginaofori/) |
-| Enhancing Abstract Screening Classification in Evidence-Based Medicine: Incorporating Domain Knowledge into Pre-trained Models | [Paper](https://doi.org/10.1007/978-3-031-66538-7_26) | [Code](https://github.com/reginaofori/EBM-Domain-Integration-PLMs) | [Regina Ofori-Boateng](https://github.com/reginaofori/) |
+| pFGD: Mitigating Gradient Inversion Attacks in Federated Learning with Frequency Transformation | [Paper](https://doi.org/10.1007/978-3-031-54129-2_44) | [Code](https://github.com/chamathpali/pFGD) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
+| A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews | [Paper](https://aclanthology.org/2024.naacl-long.206/) | [Code](https://github.com/reginaofori/Zero_Shot_IR_Spanish) | [Dr Regina Ofori-Boateng](https://github.com/reginaofori/) |
+| Enhancing Abstract Screening Classification in Evidence-Based Medicine: Incorporating Domain Knowledge into Pre-trained Models | [Paper](https://doi.org/10.1007/978-3-031-66538-7_26) | [Code](https://github.com/reginaofori/EBM-Domain-Integration-PLMs) | [Dr Regina Ofori-Boateng](https://github.com/reginaofori/) |
 | CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering | [Paper](https://arxiv.org/abs/2404.04302) | [Code](https://github.com/rgu-iit-bt/cbr-for-legal-rag) | [Ramitha Abeyratne](https://github.com/RAbeyratne) |
 
 ### Open Applications <a name="aiopen"></a>
 | Name | Application URL |   Source Code   | Maintained By |
 |---|---|---|---|
-| Unimate: is a digital intervention (app) aimed at enhancing students educational experience and wellbeing | [www.unimate.app](https://unimate.app) | [Code](https://github.com/RGU-Computing/unimate) | [Chamath Palihawadana](https://github.com/chamathpali) |
+| Unimate: is a digital intervention (app) aimed at enhancing students educational experience and wellbeing | [www.unimate.app](https://unimate.app) | [Code](https://github.com/RGU-Computing/unimate) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 | FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults | [Website](https://www.comp.rgu.ac.uk/fitchat/)<br> [Paper](https://intellang.github.io/papers/4-IntelLanG_2020_paper_4.pdf) | [Code](https://github.com/RGU-Computing/fitchat) | [Dr Anjana Wijekoon](https://github.com/anjanaw/) |
 
 ### Frameworks and Libraries <a name="aiframe"></a>
 | Name  | Type | Source Code   | Maintained By |
 |---|---|---|---|
-| Clood CBR | Framework for Case Based Reasoning using cloud microservices | [Code](https://github.com/rgu-computing/clood) <br>[Demo Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0)| [Dr Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
+| Clood CBR | Framework for Case Based Reasoning using cloud microservices | [Code](https://github.com/rgu-computing/clood) <br>[Demo Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0)| [Dr Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 | CSIKit | Framework for parsing, processing, and visualising CSI data | [Code](https://github.com/Gi-z/CSIKit) | [Dr Glenn Forbes](https://github.com/Gi-z) |
-| Traxivity: is a module which features step counting and its analytics in order to help users maintain physical activity | React Native Library (mobile) | [Code](https://github.com/RGU-Computing/traxivity) | [Chamath Palihawadana](https://github.com/chamathpali) |
+| Traxivity: is a module which features step counting and its analytics in order to help users maintain physical activity | React Native Library (mobile) | [Code](https://github.com/RGU-Computing/traxivity) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 
 
 ### Datasets <a name="aidbs"></a>
@@ -64,13 +64,13 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | selfBACK Data Set | [Dataset](https://archive.ics.uci.edu/ml/datasets/selfBACK) | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-63558-3_40) | [Prof Nirmalie Wiratunga](https://rgu-repository.worktribe.com/person/142640/nirmalie-wiratunga) and [Dr Anjana Wijekoon](https://github.com/anjanaw/) |
 | WiFi-based Human Activity Recognition Dataset | [Dataset](https://zenodo.org/record/5616432) | [Paper](https://ieeexplore.ieee.org/abstract/document/9288199/) | [Dr Glenn Forbes](https://github.com/Gi-z/) |
 | Fed-Goodreads | [Dataset](https://github.com/chamathpali/Fed-Goodreads/) | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Chamath Palihawadana](https://github.com/chamathpali) |
-| Fed-MEx | [Dataset](https://github.com/chamathpali/Fed-MEx/) | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Chamath Palihawadana](https://github.com/chamathpali) |
+| Fed-MEx | [Dataset](https://github.com/chamathpali/Fed-MEx/) | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 
 ### Other Tools and Utilities <a name="aiothers"></a>
 | Name |  Source Code   | Maintained By |
 |---|---|---|
 | Various NLP tasks using Huggingface and Flask | [Code](https://github.com/ashishu007/NLP-Tasks) |  [Dr Ashish Upadhyay](https://github.com/ashishu007) |
-| Helper methods to support TensorFlow Federated functionalities | [Code](https://github.com/chamathpali/tensorflow-federated-utilities) | [Chamath Palihawadana](https://github.com/chamathpali)|
+| Helper methods to support TensorFlow Federated functionalities | [Code](https://github.com/chamathpali/tensorflow-federated-utilities) | [Dr Chamath Palihawadana](https://github.com/chamathpali)|
 | Boolean Search Engine using Python and Flask | [Code](https://github.com/ashishu007/IR-Engine) |  [Dr Ashish Upadhyay](https://github.com/ashishu007) |
 | Introduction to Word Embeddings | [Code](https://github.com/ashishu007/Word-Embeddings) |  [Dr Ashish Upadhyay](https://github.com/ashishu007) |
 
@@ -98,7 +98,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446572
 |An Accessible Toolkit for 360 VR Studies | [Paper](https://arxiv.org/abs/2304.03652) | [Code](https://github.com/corriedotdev/vr-360-player) | [Dr Corrie Green](https://github.com/corriedotdev) |
 |A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams | [Paper](https://doi.org/10.1007/978-3-031-70533-5_1) | [Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
 | Zero-Shot Learning for Abstract Classification in Systematic Reviews | [Paper](https://doi.org/10.1016/j.dajour.2023.100162) | [Code](https://github.com/carlosfmorenog/Zero-Shot_Abstract_Classification) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
-| DICAM: deep inception and channel-wise attention modules for underwater image enhancement  | [Paper](https://doi.org/10.1016/j.neucom.2024.127585 ) | [Code](https://github.com/hfarhaditolie/DICAM) | [Mr Hamidreza Farhadi Tolie](https://github.com/hfarhaditolie) |
+| DICAM: deep inception and channel-wise attention modules for underwater image enhancement  | [Paper](https://doi.org/10.1016/j.neucom.2024.127585 ) | [Code](https://github.com/hfarhaditolie/DICAM) | [Dr Hamidreza Farhadi Tolie](https://github.com/hfarhaditolie) |
 |  Modified CBAM: Sub-block Pooling for Improved Channel and Spatial Attention  | [Paper](https://doi.org/10.1007/978-3-031-98691-8_9) | [Code](https://github.com/fatimza-2013/brainiac) | [Mr Hamza Hussaini](https://github.com/fatimza-2013) |
 |  Scene Text Detection and Recognition "in light of" Challenging Environmental Conditions using Aria Glasses Egocentric Vision Cameras  | [Paper](https://arxiv.org/abs/2507.16330) | [Code](https://github.com/josepDe/Project_Aria_STR) | [Mr Joseph De Matia](https://github.com/josepDe) |
 
@@ -117,10 +117,10 @@ More info: https://cybersec-soc-rgu.github.io/
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
 |Naive Bayes: Applications, Variations and Vulnerabilities| [Paper](https://doi.org/10.1007/s00500-020-05297-6) | [Code](https://github.com/HarshaKumaraKalutarage/Naive-Bayes-Applications-and-Vulnerabilities) | [Dr Harsha Kalutarage](https://github.com/HarshaKumaraKalutarage) |
-|Beyond Vanilla: Improved Autoencoder-based Ensemble In-vehicle Intrusion Detection System| [Paper](https://doi.org/10.1016/j.jisa.2023.103570) | [Code](https://github.com/sampathrajapaksha/EnsembleIDS) | [Sampath Rajapaksha](https://github.com/sampathrajapaksha) |
+|Beyond Vanilla: Improved Autoencoder-based Ensemble In-vehicle Intrusion Detection System| [Paper](https://doi.org/10.1016/j.jisa.2023.103570) | [Code](https://github.com/sampathrajapaksha/EnsembleIDS) | [Dr Sampath Rajapaksha](https://github.com/sampathrajapaksha) |
 |Labelled Vulnerability Dataset on Android Source Code (LVDAndro)| [Paper](https://doi.org/10.5220/0012060400003555) | [Code](https://github.com/softwaresec-labs/LVDAndro) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
-|Android Code Vulnerabilities Early Detection (ACVED)| [Paper](https://doi.org/10.1007/978-3-031-37586-6_20) | [Code](https://github.com/softwaresec-labs/ACVED) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
-|Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI (FedREVAN)| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-54129-2_25) | [Code](https://github.com/softwaresec-labs/FedREVAN) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
-|MADONNA: Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis (MADONNA)| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-56326-3_20) | [Code](https://doi.org/10.1016/j.jisa.2024.103741) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
+|Android Code Vulnerabilities Early Detection (ACVED)| [Paper](https://doi.org/10.1007/978-3-031-37586-6_20) | [Code](https://github.com/softwaresec-labs/ACVED) | [Dr Janaka Senanayake](https://github.com/softwaresec-labs) |
+|Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI (FedREVAN)| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-54129-2_25) | [Code](https://github.com/softwaresec-labs/FedREVAN) | [Dr Janaka Senanayake](https://github.com/softwaresec-labs) |
+|MADONNA: Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis (MADONNA)| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-56326-3_20) | [Code](https://doi.org/10.1016/j.jisa.2024.103741) | [Dr Janaka Senanayake](https://github.com/softwaresec-labs) |
 |Defendroid: Real-time Android code vulnerability detection via blockchain federated neural network with XAI| [Paper](https://doi.org/10.1016/j.jisa.2024.103741) | [Code](https://github.com/softwaresec-labs/Defendroid) | [Janaka Senanayake](https://github.com/softwaresec-labs) |
 
