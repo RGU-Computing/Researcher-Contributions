@@ -1,5 +1,5 @@
 # RGU Computing Researcher Contributions
-Main Site: https://rgu-repository.worktribe.com/orgunit/71759/school-of-computing
+Main Site: https://rgu-repository.worktribe.com/
 
 - [Artificial Intelligence & Reasoning](#ai)
   - [Publications with Reproducible Code](#aipubs)
