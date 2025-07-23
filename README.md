@@ -100,6 +100,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446572
 | Zero-Shot Learning for Abstract Classification in Systematic Reviews | [Paper](https://doi.org/10.1016/j.dajour.2023.100162) | [Code](https://github.com/carlosfmorenog/Zero-Shot_Abstract_Classification) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
 | DICAM: deep inception and channel-wise attention modules for underwater image enhancement  | [Paper](https://doi.org/10.1016/j.neucom.2024.127585 ) | [Code](https://github.com/hfarhaditolie/DICAM) | [Mr Hamidreza Farhadi Tolie](https://github.com/hfarhaditolie) |
 |  Modified CBAM: Sub-block Pooling for Improved Channel and Spatial Attention  | [Paper](https://doi.org/10.1007/978-3-031-98691-8_9) | [Code](https://github.com/fatimza-2013/brainiac) | [Mr Hamza Hussaini](https://github.com/fatimza-2013) |
+|  Scene Text Detection and Recognition "in light of" Challenging Environmental Conditions using Aria Glasses Egocentric Vision Cameras  | [Paper](https://arxiv.org/abs/2507.16330) | [Code](https://github.com/josepDe/Project_Aria_STR) | [Mr Joseph De Matia](https://github.com/josepDe) |
 
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
