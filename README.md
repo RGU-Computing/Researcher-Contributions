@@ -22,7 +22,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 
 | Publication Title | Publication URL |   Source Code   | Maintained By |
 |---|---|---|---|
-| Clood CBR: towards microservices oriented case-based reasoning | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58342-2_9), [Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0) | [Code](https://github.com/rgu-computing/clood) | [Dr Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Chamath Palihawadana](https://github.com/chamathpali) |
+| Clood CBR: towards microservices oriented case-based reasoning | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58342-2_9), [Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0) | [Code](https://github.com/rgu-computing/clood) | [Dr Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 | Human activity recognition with deep metric learners | [Paper](http://ceur-ws.org/Vol-2567/paper1.pdf) | [Code](https://github.com/anjanaw/deep_metric_learning_for_har) | [Dr Anjana Wijekoon](https://github.com/anjanaw/) |
 | WEC: Weighted Ensemble of Text Classifiers | [Paper](https://ieeexplore.ieee.org/document/9185641) | [Code](https://github.com/ashishu007/WEC) | [Dr Ashish Upadhyay](https://github.com/ashishu007) |
 | Case-Based Approach to Automated Natural Language Generation for Obituaries | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58342-2_18) | [Code](https://github.com/ashishu007/Obituary-Generation) | [Dr Ashish Upadhyay](https://github.com/ashishu007) |
