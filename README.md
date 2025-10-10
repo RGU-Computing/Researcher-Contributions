@@ -43,6 +43,9 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | Enhancing Abstract Screening Classification in Evidence-Based Medicine: Incorporating Domain Knowledge into Pre-trained Models | [Paper](https://doi.org/10.1007/978-3-031-66538-7_26) | [Code](https://github.com/reginaofori/EBM-Domain-Integration-PLMs) | [Dr Regina Ofori-Boateng](https://github.com/reginaofori/) |
 | CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering | [Paper](https://arxiv.org/abs/2404.04302) | [Code](https://github.com/rgu-iit-bt/cbr-for-legal-rag) | [Mr Ramitha Abeyratne](https://rgu-repository.worktribe.com/person/2085867/ramitha-abeyratne) |
 | AlignLLM: alignment-based evaluation using ensemble of LLMs-as-judges for Q&A | [Paper](https://www.springerprofessional.de/en/alignllm-alignment-based-evaluation-using-ensemble-of-llms-as-ju/51157720) | [Code](https://github.com/RAbeyratne/aligned-ensemble-judge) | [Mr Ramitha Abeyratne](https://rgu-repository.worktribe.com/person/2085867/ramitha-abeyratne) |
+| Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning | Paper Under Review | [Code](https://github.com/itsmemala/LACL) | [Ms Malavika Suresh](https://rgu-repository.worktribe.com/person/1447635/malavika-suresh) |
+| Cross-Layer Attention Probing for Fine-Grained Hallucination Detection | [Paper](https://arxiv.org/abs/2509.09700) | [Code](https://github.com/itsmemala/CLAP) | [Ms Malavika Suresh](https://rgu-repository.worktribe.com/person/1447635/malavika-suresh) |
+
 
 ### Open Applications <a name="aiopen"></a>
 | Name | Application URL |   Source Code   | Maintained By |
