@@ -108,6 +108,8 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446572
 |  KD-LSRED : Knowledge Distillation for Lightweight Symbol Recognition in Engineering Diagrams  | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-04630-7_28) | [Code](https://github.com/IKENNA113/KD-LSRED-EngDiagrams) | [Mr Ikenna Ekeke](https://github.com/IKENNA113) |
 | An Evolutionary Neural Architecture Search-Based Approach for Time Series Forecasting  | [Paper](https://ieeexplore.ieee.org/document/11043002) | [Code](https://github.com/trunghieuvu02/ENAS-TimeSeriesForecasting) | [Mr Hieu Vu](https://github.com/trunghieuvu02) |
 |FAT: Fusion-Attention Transformer for Remaining Useful Life Prediction  | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78192-6_19) | [Code] | [Mr Hieu Vu](https://github.com/trunghieuvu02) |
+| An Evolutionary Neural Architecture Search-Based Approach for Time Series Forecasting  | [Paper](https://ieeexplore.ieee.org/document/11043002) | [Code](https://github.com/trunghieuvu02/ENAS-TimeSeriesForecasting) | [Mr Hieu Vu](https://github.com/trunghieuvu02) |
+|MSBATN: Multi-Stage Boundary-Aware Transformer Network for action segmentation in untrimmed surgical videos  | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314225002449) | [Code](https://github.com/Rezowan-Ferdous/msbatn) | [Mr Rezowan Shuvo](https://rgu-repository.worktribe.com/person/1898062/md-rezowan-hossain-ferdous-shuvo) |
 
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
