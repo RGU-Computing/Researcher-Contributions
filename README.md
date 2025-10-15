@@ -106,6 +106,8 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446572
 |  Modified CBAM: Sub-block Pooling for Improved Channel and Spatial Attention  | [Paper](https://doi.org/10.1007/978-3-031-98691-8_9) | [Code](https://github.com/fatimza-2013/brainiac) | [Mr Hamza Hussaini](https://github.com/fatimza-2013) |
 |  Scene Text Detection and Recognition "in light of" Challenging Environmental Conditions using Aria Glasses Egocentric Vision Cameras  | [Paper](https://arxiv.org/abs/2507.16330) | [Code](https://github.com/josepDe/Project_Aria_STR) | [Mr Joseph De Matia](https://github.com/josepDe) |
 |  KD-LSRED : Knowledge Distillation for Lightweight Symbol Recognition in Engineering Diagrams  | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-04630-7_28) | [Code](https://github.com/IKENNA113/KD-LSRED-EngDiagrams) | [Mr Ikenna Ekeke](https://github.com/IKENNA113) |
+| An Evolutionary Neural Architecture Search-Based Approach for Time Series Forecasting  | [Paper](https://ieeexplore.ieee.org/document/11043002) | [Code](https://github.com/trunghieuvu02/ENAS-TimeSeriesForecasting) | [Mr Hieu Vu](https://github.com/trunghieuvu02) |
+|FAT: Fusion-Attention Transformer for Remaining Useful Life Prediction  | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78192-6_19) | [Code] | [Mr Hieu Vu](https://github.com/trunghieuvu02) |
 
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
