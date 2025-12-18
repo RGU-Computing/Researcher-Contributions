@@ -45,7 +45,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | AlignLLM: alignment-based evaluation using ensemble of LLMs-as-judges for Q&A | [Paper](https://www.springerprofessional.de/en/alignllm-alignment-based-evaluation-using-ensemble-of-llms-as-ju/51157720) | [Code](https://github.com/RAbeyratne/aligned-ensemble-judge) | [Mr Ramitha Abeyratne](https://rgu-repository.worktribe.com/person/2085867/ramitha-abeyratne) |
 | Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning | Paper Under Review | [Code](https://github.com/itsmemala/LACL) | [Ms Malavika Suresh](https://rgu-repository.worktribe.com/person/1447635/malavika-suresh) |
 | Cross-Layer Attention Probing for Fine-Grained Hallucination Detection | [Paper](https://arxiv.org/abs/2509.09700) | [Code](https://github.com/itsmemala/CLAP) | [Ms Malavika Suresh](https://rgu-repository.worktribe.com/person/1447635/malavika-suresh) |
-| NeuReg: Neuro-Symbolic QA Generation from Regulatory Compliance | Paper Under Review | [Code](https://github.com/RGU-Computing/NeuReg) | [Mr Umair Arshad](https://rgu-repository.worktribe.com/person/1866073/mr-umair-arshad) |
+| NeuReg: Neuro-Symbolic QA Generation from Regulatory Compliance | [Paper](https://dl.acm.org/doi/10.1145/3731443.3771375) | [Code](https://github.com/RGU-Computing/NeuReg) | [Mr Umair Arshad](https://rgu-repository.worktribe.com/person/1866073/mr-umair-arshad) |
 | EFRO: Education Funding Regulations Ontology | Paper Under Review | [Code](https://github.com/RGU-Computing/EFRO) | [Mr Umair Arshad](https://rgu-repository.worktribe.com/person/1866073/mr-umair-arshad) |
 
 ### Open Applications <a name="aiopen"></a>
