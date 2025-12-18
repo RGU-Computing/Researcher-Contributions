@@ -70,6 +70,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | WiFi-based Human Activity Recognition Dataset | [Dataset](https://zenodo.org/record/5616432) | [Paper](https://ieeexplore.ieee.org/abstract/document/9288199/) | [Dr Glenn Forbes](https://github.com/Gi-z/) |
 | Fed-Goodreads | [Dataset](https://github.com/chamathpali/Fed-Goodreads/) | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 | Fed-MEx | [Dataset](https://github.com/chamathpali/Fed-MEx/) | [Paper](https://doi.org/10.1016/j.neucom.2021.08.141) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
+| NeuReg | [Dataset](https://rgu-repository.worktribe.com/output/3168158/) | [Paper](https://dl.acm.org/doi/10.1145/3731443.3771375) | [Mr Umair Arshad](https://rgu-repository.worktribe.com/person/1866073/mr-umair-arshad) |
 
 ### Other Tools and Utilities <a name="aiothers"></a>
 | Name |  Source Code   | Maintained By |
