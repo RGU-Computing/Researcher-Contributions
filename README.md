@@ -51,7 +51,7 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 ### Open Applications <a name="aiopen"></a>
 | Name | Application URL |   Source Code   | Maintained By |
 |---|---|---|---|
-| Unimate: is a digital intervention (app) aimed at enhancing students educational experience and wellbeing | [www.unimate.app](https://unimate.app) | [Code](https://github.com/RGU-Computing/unimate) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
+| Unimate: is a digital intervention (app) aimed at enhancing students educational experience and wellbeing | [www.unimate.rguairgroup.com](https://unimate.rguairgroup.com) | [Code](https://github.com/RGU-Computing/unimate) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 | FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults | [Website](https://www.comp.rgu.ac.uk/fitchat/)<br> [Paper](https://intellang.github.io/papers/4-IntelLanG_2020_paper_4.pdf) | [Code](https://github.com/RGU-Computing/fitchat) | [Dr Anjana Wijekoon](https://github.com/anjanaw/) |
 
 ### Frameworks and Libraries <a name="aiframe"></a>
