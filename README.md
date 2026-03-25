@@ -12,6 +12,8 @@ Main Site: https://rgu-repository.worktribe.com/
   - [Datasets](#imvdbs)
 - [Cyber Security](#cs)
   - [Publications with Reproducible Code](#cspubs)
+- [Complex Optimisation](#cog)
+  - [Frameworks and Libraries](#cogframe)
 
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
 <img src="https://user-images.githubusercontent.com/5123109/138847984-221acf79-0c4a-471d-a35b-92f44b121a69.png" alt="AIR Logo" width="300"/>
@@ -135,3 +137,11 @@ More info: https://cybersec-soc-rgu.github.io/
 |MADONNA: Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis (MADONNA)| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-56326-3_20) | [Code](https://doi.org/10.1016/j.jisa.2024.103741) | [Dr Janaka Senanayake](https://github.com/softwaresec-labs) |
 |Defendroid: Real-time Android code vulnerability detection via blockchain federated neural network with XAI| [Paper](https://doi.org/10.1016/j.jisa.2024.103741) | [Code](https://github.com/softwaresec-labs/Defendroid) | [Dr Janaka Senanayake](https://github.com/softwaresec-labs) |
 
+## Complex Optimisation <a name="cog"></a>
+
+More info: [https://rgu-repository.worktribe.com/researchcentre/2446567](https://rgu-repository.worktribe.com/researchcentre/2446571)
+
+### Frameworks and Libraries <a name="cogframe"></a>
+| Name  | Description | Source Code | License | Maintained By |
+|---|---|---|---|---|
+| rgu-transport | Java 25 library for multimodal transport modelling | [Code](https://github.com/leechristie/rgu-transport) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) | [Dr Lee A. Christie](https://github.com/leechristie) |
