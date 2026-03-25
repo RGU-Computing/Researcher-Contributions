@@ -16,7 +16,7 @@ Main Site: https://rgu-repository.worktribe.com/
 ## Artificial Intelligence & Reasoning <a name="ai"></a>
 <img src="https://user-images.githubusercontent.com/5123109/138847984-221acf79-0c4a-471d-a35b-92f44b121a69.png" alt="AIR Logo" width="300"/>
 
-More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
+More info: https://rgu-repository.worktribe.com/researchcentre/2446567
  
 ### Publications with Reproducible Code <a name="aipubs"></a>
 
@@ -81,10 +81,10 @@ More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446567
 | Introduction to Word Embeddings | [Code](https://github.com/ashishu007/Word-Embeddings) |  [Dr Ashish Upadhyay](https://github.com/ashishu007) |
 
 
-## Interactive Machine Vision <a name="imv"></a>
+## Machine Vision <a name="imv"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/43293156/68f50ce7-62dc-4a30-9e31-f6404e106fff" alt="IMV Logo" width="300"/>
 
-More info: https://rgu-repository.worktribe.com/tag/ResearchCentre/2446572
+More info: https://rgu-repository.worktribe.com/researchcentre/2446572
 
 ### Publications with Reproducible Code <a name="imvpubs"></a>
 
