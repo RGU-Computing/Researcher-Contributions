@@ -84,7 +84,8 @@ More info: https://rgu-repository.worktribe.com/researchcentre/2446567
 
 
 ## Machine Vision <a name="imv"></a>
-<img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/43293156/68f50ce7-62dc-4a30-9e31-f6404e106fff" alt="IMV Logo" width="300"/>
+<!-- <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/43293156/68f50ce7-62dc-4a30-9e31-f6404e106fff" alt="IMV Logo" width="300"/> -->
+<img width="329" height="353" alt="logo_MV" src="https://github.com/user-attachments/assets/dc5bea2a-7618-43be-85a2-a53bc2a22d13" alt="IMV Logo"/>
 
 More info: https://rgu-repository.worktribe.com/researchcentre/2446572
 
