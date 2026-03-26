@@ -45,8 +45,8 @@ More info: https://rgu-repository.worktribe.com/researchcentre/2446567
 | Enhancing Abstract Screening Classification in Evidence-Based Medicine: Incorporating Domain Knowledge into Pre-trained Models | [Paper](https://doi.org/10.1007/978-3-031-66538-7_26) | [Code](https://github.com/reginaofori/EBM-Domain-Integration-PLMs) | [Dr Regina Ofori-Boateng](https://github.com/reginaofori/) |
 | CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering | [Paper](https://arxiv.org/abs/2404.04302) | [Code](https://github.com/rgu-iit-bt/cbr-for-legal-rag) | [Mr Ramitha Abeyratne](https://rgu-repository.worktribe.com/person/2085867/ramitha-abeyratne) |
 | AlignLLM: alignment-based evaluation using ensemble of LLMs-as-judges for Q&A | [Paper](https://www.springerprofessional.de/en/alignllm-alignment-based-evaluation-using-ensemble-of-llms-as-ju/51157720) | [Code](https://github.com/RAbeyratne/aligned-ensemble-judge) | [Mr Ramitha Abeyratne](https://rgu-repository.worktribe.com/person/2085867/ramitha-abeyratne) |
-| Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning | Paper Under Review | [Code](https://github.com/itsmemala/LACL) | [Ms Malavika Suresh](https://rgu-repository.worktribe.com/person/1447635/malavika-suresh) |
-| Cross-Layer Attention Probing for Fine-Grained Hallucination Detection | [Paper](https://arxiv.org/abs/2509.09700) | [Code](https://github.com/itsmemala/CLAP) | [Ms Malavika Suresh](https://rgu-repository.worktribe.com/person/1447635/malavika-suresh) |
+| Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning | Paper Under Review | [Code](https://github.com/itsmemala/LACL) | [Dr Malavika Suresh](https://rgu-repository.worktribe.com/person/1447635/malavika-suresh) |
+| Cross-Layer Attention Probing for Fine-Grained Hallucination Detection | [Paper](https://arxiv.org/abs/2509.09700) | [Code](https://github.com/itsmemala/CLAP) | [Dr Malavika Suresh](https://rgu-repository.worktribe.com/person/1447635/malavika-suresh) |
 | NeuReg: Neuro-Symbolic QA Generation from Regulatory Compliance | [Paper](https://dl.acm.org/doi/10.1145/3731443.3771375) and [More info](https://rgu-repository.worktribe.com/output/3168130) | [Code](https://github.com/RGU-Computing/NeuReg) | [Mr Umair Arshad](https://rgu-repository.worktribe.com/person/1866073/mr-umair-arshad) |
 | EFRO: Education Funding Regulations Ontology | Paper Under Review | [Code](https://github.com/RGU-Computing/EFRO) | [Mr Umair Arshad](https://rgu-repository.worktribe.com/person/1866073/mr-umair-arshad) |
 
@@ -62,7 +62,6 @@ More info: https://rgu-repository.worktribe.com/researchcentre/2446567
 | Clood CBR | Framework for Case Based Reasoning using cloud microservices | [Code](https://github.com/rgu-computing/clood) <br>[Demo Video](https://www.dropbox.com/s/i4vadj9c0dkwrsn/Clood%20CBR%20Final%20-%20ICCBR%202020.mp4?dl=0)| [Dr Ikechukwu Nkisi-Orji](https://github.com/ike01) and [Dr Chamath Palihawadana](https://github.com/chamathpali) |
 | CSIKit | Framework for parsing, processing, and visualising CSI data | [Code](https://github.com/Gi-z/CSIKit) | [Dr Glenn Forbes](https://github.com/Gi-z) |
 | Traxivity: is a module which features step counting and its analytics in order to help users maintain physical activity | React Native Library (mobile) | [Code](https://github.com/RGU-Computing/traxivity) | [Dr Chamath Palihawadana](https://github.com/chamathpali) |
-
 
 ### Datasets <a name="aidbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
@@ -84,7 +83,6 @@ More info: https://rgu-repository.worktribe.com/researchcentre/2446567
 
 
 ## Machine Vision <a name="imv"></a>
-<!-- <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/43293156/68f50ce7-62dc-4a30-9e31-f6404e106fff" alt="IMV Logo" width="300"/> -->
 <img width="329" height="353" alt="logo_MV" src="https://github.com/user-attachments/assets/dc5bea2a-7618-43be-85a2-a53bc2a22d13" alt="IMV Logo"/>
 
 More info: https://rgu-repository.worktribe.com/researchcentre/2446572
@@ -114,7 +112,7 @@ More info: https://rgu-repository.worktribe.com/researchcentre/2446572
 | An Evolutionary Neural Architecture Search-Based Approach for Time Series Forecasting  | [Paper](https://ieeexplore.ieee.org/document/11043002) | [Code](https://github.com/trunghieuvu02/ENAS-TimeSeriesForecasting) | [Mr Hieu Vu](https://github.com/trunghieuvu02) |
 |FAT: Fusion-Attention Transformer for Remaining Useful Life Prediction  | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78192-6_19) | [Code](https://github.com/trunghieuvu02/transformers_RUL.git) | [Mr Hieu Vu](https://github.com/trunghieuvu02) |
 | An Evolutionary Neural Architecture Search-Based Approach for Time Series Forecasting  | [Paper](https://ieeexplore.ieee.org/document/11043002) | [Code](https://github.com/trunghieuvu02/ENAS-TimeSeriesForecasting) | [Mr Hieu Vu](https://github.com/trunghieuvu02) |
-|MSBATN: Multi-Stage Boundary-Aware Transformer Network for action segmentation in untrimmed surgical videos  | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314225002449) | [Code](https://github.com/Rezowan-Ferdous/msbatn) | [Mr Rezowan Shuvo](https://rgu-repository.worktribe.com/person/1898062/md-rezowan-hossain-ferdous-shuvo) |
+|MSBATN: Multi-Stage Boundary-Aware Transformer Network for Action Segmentation in Untrimmed Surgical Videos  | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314225002449) | [Code](https://github.com/Rezowan-Ferdous/msbatn) | [Mr Rezowan Shuvo](https://rgu-repository.worktribe.com/person/1898062/md-rezowan-hossain-ferdous-shuvo) |
 
 ### Datasets <a name="imvdbs"></a>
 | Name | Dataset URL |   Source Code or Paper   | Maintained By |
