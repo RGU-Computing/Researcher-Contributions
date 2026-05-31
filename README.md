@@ -119,6 +119,7 @@ More info: https://rgu-repository.worktribe.com/researchcentre/2446572
 |---|---|---|---|
 |Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks| [Data and Code](https://github.com/carlosfmorenog/CDSMOTE-NONBIN-Symbols) | [Paper](https://doi.org/10.1007/978-3-030-48791-1_16)| [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
 | CARDIAC Images for 4-Chamber Heart Ultrasound Segmentation | [Dataset](https://www.kaggle.com/datasets/carlosmorenoGarcía/cardiac-images-masks-plosone) | [Paper](https://doi.org/10.1371/journal.pone.0293560) | [Dr Carlos Moreno-García](http://cfmgcomputing.blogspot.com/p/home.html) |
+| SustGraph Electrical Drawing Dataset | [Dataset](https://data.mendeley.com/datasets/4vdpxdd7vp/1) | [Paper in Review] | [Ms Olumayowa Olabanjo](https://github.com/mayoT0) |
 
 ## Cyber Security <a name="cs"></a>
 <img src="https://github.com/RGU-Computing/Researcher-Contributions/assets/5123109/0cb18133-0fe1-4b3d-b7e3-97bf3bab810a" alt="Cyber Security Logo" width="300"/>
