@@ -7,7 +7,7 @@ Main Site: https://rgu-repository.worktribe.com/
   - [Frameworks and Libraries](#aiframe)
   - [Datasets](#aidbs)
   - [Other Tools and Utilities](#aiothers)
-- [Interactive Machine Vision](#imv)
+- [Machine Vision](#imv)
   - [Publications with Reproducible Code](#imvpubs)
   - [Datasets](#imvdbs)
 - [Cyber Security](#cs)
